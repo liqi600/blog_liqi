@@ -8,7 +8,7 @@ export default class Footer extends React.Component{
     render(){
         return(
             <Row className='footer'>
-                <span>Created ©2018 闽ICP备18019123号</span>
+                <span>Created ©2018 陕ICP备18019123号</span>
             </Row>
         );
     }
